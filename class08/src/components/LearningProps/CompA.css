@@ -1,0 +1,17 @@
+.light h1{
+    color: red;
+    background-color: black;
+}
+.light p{
+    color: white;
+    background-color: brown;
+}
+
+.dark h1{
+    color: yellow;
+    background-color: black;
+}
+.dark p{
+    color: black;
+    background-color: brown;
+}

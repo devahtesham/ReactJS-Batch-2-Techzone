@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
