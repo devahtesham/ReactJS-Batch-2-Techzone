@@ -1,0 +1,13 @@
+sup {
+    background: orangered;
+    padding: 2px 8px 4px 8px;
+    border-radius: 50%;
+    font-size: 13px;
+    font-weight: 700;
+    top: -18px !important;
+    right: 4px !important;
+}
+.user-details{
+    border-bottom: 2px dashed orangered;
+    padding-bottom: 5px;
+}
