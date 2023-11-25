@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  background: gold !important;
+  border: none !important;
+  padding: 6px 15px !important;
+  font-size: 28px !important;
+}
+
+section.counter {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  width: 10%;
+  margin: auto;
+  margin-top: 29px;
+}
+
+.screen {
+  font-size: 25px;
+  border: 1px solid black;
+  padding: 6px 24px;
+}

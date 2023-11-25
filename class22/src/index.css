@@ -1,0 +1,20 @@
+.text-center{
+  text-align: center !important;
+}
+.fw-700{
+  font-weight: 700;
+}
+.m-0{
+  margin: 0;
+}
+.mt-5{
+  margin-top: 5rem;
+}
+.py-2{
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+.fw-400{
+  font-weight: 400;
+}
